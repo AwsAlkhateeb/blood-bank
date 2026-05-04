@@ -1,6 +1,7 @@
 Applications outside jordan:
 1. In Saudi Arabia there is an application "Wateen"
-**features:**\n
+features:
+
 	. Approved by Ministry of Health
 	. Provides you with nearby collecting blood points locations
 	. Gives you glimpse about what is blood donation
