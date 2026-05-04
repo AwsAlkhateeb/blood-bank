@@ -14,7 +14,7 @@ How to create an account:
 	. Enter the City where you live
 	. Enter your gender and birth date
 	. Select your weight whether above or below 50Kg
-		
+
 Now you have an account
 
 User interface:
