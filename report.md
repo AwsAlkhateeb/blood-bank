@@ -1,11 +1,12 @@
 Applications outside jordan:
-1. In Saudi Arabia there is an application "Wateen"\
+1. In Saudi Arabia there is an application "Wateen"
+
 features:
 	. Approved by Ministry of Health
 	. Provides you with nearby collecting blood points locations
 	. Gives you glimpse about what is blood donation
 		
-	How to create an account:
+How to create an account:
 	. Enter you phone number then, an SMS verification code will be sent
 	. Enter ID-No
 	. Enter First name, Last name and accept terms and conditions
@@ -14,10 +15,9 @@ features:
 	. Enter your gender and birth date
 	. Select your weight whether above or below 50Kg
 		
-	Now you have an account
+Now you have an account
 
-		
-	User interface:
+User interface:
 	. Number of donations for User
 	. User can book a slot for donation (requires an online test)
 	. Nearest Hospital next to User
