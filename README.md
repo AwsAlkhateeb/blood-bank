@@ -11,3 +11,17 @@ and he would get into a car accident and there wouldnt be donators from his soci
 to a bank near them and transfer their donation account to him.</br>
 of course this will cause the problem of one bank having too many donators with no one using these donations from the area,and the other bank will </br>
 have a deficit in units, a solution is making a transporting vehicle for these units across banks to balance that deficit</h5>
+<br>
+<h3>Initial Tech Stack</h3>
+<h4>Frontend:</h4>
+<ul>
+  <li>Flutter</li>
+  <li>Firebase hosting</li>
+</ul>
+<h4>Backend:</h4>
+<ul>
+  <li>ASP.NET Core</li>
+  <li>PostgreSQL or Oracle</li>
+  <li>Docker Deployment + Github Actions for CI/CD </li>
+  <li>Railway Hosting</li>
+</ul>
